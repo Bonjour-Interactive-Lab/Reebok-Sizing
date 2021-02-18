@@ -1,0 +1,36 @@
+{
+    "fr":{
+    "homeTitle":"Reebok\nExperience",
+    "homeSubtitle":"Besoin de retrouver ta pointure ?",
+    "homeCTA" :"Place ton pied sur le capteur et découvre \nles modèles disponibles dans ta pointure",
+    "homeButtonWomen":"Je suis une femme",
+    "homeButtonMen":"Je suis un homme",
+    "tutoTitle":"Déchausse toi et place ton pied sur le marqueur",
+    "tutoSubtitle":"veille à bien garder ton talon contre la cale durant toute la durée du scan.",
+    "tutoButton":"JE DÉCOUVRE MA POINTURE EXACTE",
+    "scanTitle":"Scan en cours",
+    "scanSubtitle":"Merci de patienter...",
+    "resultTitle":"Ma pointure :",
+    "resultSubtitle" :"DÉCOUVRE LES XX MODÈLES ADAPTÉS À TA POINTURE",
+    "resultbuttonAgain":"Recommencer",
+    "resultbuttonReturn":"Reprendre ma pointure",
+    "errorTitle": "Votre pointure n'est pas compatible"
+  },
+  "en":{
+    "homeTitle":"ENreebok Experiencee",
+    "homeSubtitle":"ENBesoin de retrouver ta pointure ?",
+    "homeCTA" :"ENPlace ton pied sur le capteur et découvre \n l’ensemble des modèles disponible dans ta pointure.",
+    "homeButtonWomen":"Je suis une femmeEN",
+    "homeButtonMen":"Je suis un hommeEN",
+    "tutoTitle":"Place ton pied sur le marqueurEN",
+    "tutoSubtitle":"veille à bien garder ton talon contre la cale durant toute la durée du scan.EN",
+    "tutoButton":"Prendre la pointureEN",
+    "scanTitle":"Scan en coursEN",
+    "scanSubtitle":"Merci de patienter...EN",
+    "resultTitle":"ENRésultat :",
+    "resultSubtitle" :"Découvres les XX modèles te correspondantEN",
+    "resultbuttonAgain":"RecommencerEN",
+    "resultbuttonReturn":"Reprendre la pointureEN",
+    "errorTitle": "Votre pointure n'est pas compatible"
+  }
+}
