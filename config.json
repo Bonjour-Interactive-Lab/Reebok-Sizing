@@ -1,10 +1,10 @@
 {
     "config":{
-        "distanceFromScanner": 180,
+        "distanceFromScanner": 206,
         "origin":"top",
         "dpi":300,
         "sizeFactor":1,
-        "areaScan": 180,
+        "areaScan": 150,
         "scanName":"Canon LiDE 220",
         "calibrationFile":"canon-lide-220.cal"
     },
