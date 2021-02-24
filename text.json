@@ -17,20 +17,20 @@
     "errorTitle": "Votre pointure n'est pas compatible"
   },
   "en":{
-    "homeTitle":"ENreebok Experiencee",
-    "homeSubtitle":"ENBesoin de retrouver ta pointure ?",
-    "homeCTA" :"ENPlace ton pied sur le capteur et découvre \n l’ensemble des modèles disponible dans ta pointure.",
-    "homeButtonWomen":"Je suis une femmeEN",
-    "homeButtonMen":"Je suis un hommeEN",
-    "tutoTitle":"Place ton pied sur le marqueurEN",
-    "tutoSubtitle":"veille à bien garder ton talon contre la cale durant toute la durée du scan.EN",
-    "tutoButton":"Prendre la pointureEN",
-    "scanTitle":"Scan en coursEN",
-    "scanSubtitle":"Merci de patienter...EN",
-    "resultTitle":"ENRésultat :",
-    "resultSubtitle" :"Découvres les XX modèles te correspondantEN",
-    "resultbuttonAgain":"RecommencerEN",
-    "resultbuttonReturn":"Reprendre la pointureEN",
-    "errorTitle": "Votre pointure n'est pas compatible"
+    "homeTitle":"Reebok \nExperiencee",
+    "homeSubtitle":"Need to get your size?",
+    "homeCTA" :"Place your foot on the sensor and discover \n all the available sneakers in your size.",
+    "homeButtonWomen":"I am a woman",
+    "homeButtonMen":"I am a man",
+    "tutoTitle":"Place your foot on the marker",
+    "tutoSubtitle":"Be sure to keep your heel against the wedge throughout the entire scan.",
+    "tutoButton":"Take the size",
+    "scanTitle":"Scan in progress",
+    "scanSubtitle":"Please wait...",
+    "resultTitle":"Results :",
+    "resultSubtitle" :"Discover the XX sneakers matching you",
+    "resultbuttonAgain":"Restart",
+    "resultbuttonReturn":"Retake your size",
+    "errorTitle": "Your size is not compatible. Pease try again."
   }
 }
