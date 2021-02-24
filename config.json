@@ -1,6 +1,6 @@
 {
     "config":{
-        "distanceFromScanner": 202,
+        "distanceFromScanner": 207,
         "origin":"top",
         "dpi":300,
         "sizeFactor":1,
